@@ -1,1 +1,1 @@
-# git_project
+print(hello git)
